@@ -13,6 +13,8 @@ int main(int argc, char **argv)
 
     printf("\nI understand I will never write a program like this\n");
     
+    printf("new printf");
+    
     printf("\n Enter the password : \n");
     gets(buff);
 
