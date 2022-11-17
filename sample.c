@@ -11,6 +11,7 @@ int main(int argc, char **argv)
     char buff[15];
     int pass = 0;
     printf("something something");
+    printf("another printf")
 
     printf("\n Enter the password : \n");
     gets(buff);
